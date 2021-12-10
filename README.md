@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-HSE MDS student, currently in MedTech working on image segmentation projects
+I'm HSE grad student, currently in MedTech working on image segmentation projects
 
 [![Linkedin: ivannvassilenko](https://img.shields.io/badge/-Ivan%20Vassilenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivannvassilenko/)](https://www.linkedin.com/in/ivannvassilenko/)                                                               
                                                                
