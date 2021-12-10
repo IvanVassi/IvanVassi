@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 HSE MDS student, currently in MedTech working on image segmentation projects
 
-<a href=”https://www.linkedin.com/in/ivannvassilenko/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-                                                               
+[![Linkedin: ivannvassilenko](https://img.shields.io/badge/-Ivan%20Vassilenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivannvassilenko/)](https://www.linkedin.com/in/ivannvassilenko/)                                                               
                                                                
 ![Profile views](https://gpvc.arturio.dev/IvanVassi)
 
