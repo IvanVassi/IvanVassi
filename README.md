@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 HSE MDS student, currently in MedTech working on image segmentation projects
+
+
 ![Profile views](https://gpvc.arturio.dev/IvanVassi)
 
-[![Linkedin: ivannvassilenko](https://img.shields.io/badge/-Ivan%Vassilenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivannvassilenko/)](https://www.linkedin.com/in/ivannvassilenko/)
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jovannv/competition/light)
