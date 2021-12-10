@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 HSE MDS student, currently in MedTech working on image segmentation projects
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jovannv/competition/light)
+![Profile views](https://gpvc.arturio.dev/alimbekovKZ)
