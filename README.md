@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 currently in MedTech working on image segmentation projects
 
-[![Linkedin: ivannvassilenko](https://img.shields.io/badge/-Ivan%20Vassilenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivannvassilenko/)](https://www.linkedin.com/in/ivannvassilenko/)                                                               
-                                                               
-![Profile views](https://gpvc.arturio.dev/IvanVassi)
+[![Linkedin: ivannvassilenko](https://img.shields.io/badge/-Ivan%20Vassilenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivannvassilenko/)](https://www.linkedin.com/in/ivannvassilenko/)                                                                                                                           
 
 stack:
 
@@ -36,4 +34,4 @@ Kaggle:
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jovannv/competition/light)
 
-
+![Profile views](https://gpvc.arturio.dev/IvanVassi)
