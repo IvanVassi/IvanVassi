@@ -32,6 +32,8 @@ stack:
 ![Linux](https://img.shields.io/static/v1?style=flat&logo=Linux&label=&message=Linux&color=9cf)
 
 Kaggle:
+
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jovannv/competition/light)
 
 
