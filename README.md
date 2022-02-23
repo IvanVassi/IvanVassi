@@ -20,5 +20,16 @@ currently in MedTech working on image segmentation projects
                                                                
 ![Profile views](https://gpvc.arturio.dev/IvanVassi)
 
+stack:
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jovannv/competition/light)
+![PyTorch](https://img.shields.io/static/v1?label=&message=PyTorch&color=%3CCOLOR%3E&logo=PyTorch) 
+![Python](https://img.shields.io/static/v1?style=flat&logo=Python&label=&message=Python&color=9cf)
+![Numpy](https://img.shields.io/static/v1?style=flat&logo=Numpy&label=&message=Numpy&color=yellow)
+![Scipy](https://img.shields.io/static/v1?style=flat&logo=Scipy&label=&message=Scipy&color=blue)
+![CNN](https://img.shields.io/static/v1?style=flat&logo=CNN&label=&message=CNN&color=critical)
+![OpenCV](https://img.shields.io/static/v1?style=flat&logo=OpenCV&label=&message=OpenCV&color=%235c3ee8)
+![Docker](https://img.shields.io/static/v1?style=flat&logo=Docker&label=&message=Docker&color=yellow)
+![Linux](https://img.shields.io/static/v1?style=flat&logo=Linux&label=&message=Linux&color=9cf)
+
+
+
