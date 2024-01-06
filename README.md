@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-currently in MedTech working on image segmentation projects
+I'm Vanya, currently in medtech startup, interseting in casual inference, timeseries forecasting and business analytics.
 
 [![Linkedin: ivannvassilenko](https://img.shields.io/badge/-Ivan%20Vassilenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivannvassilenko/)](https://www.linkedin.com/in/ivannvassilenko/)                                                                                                                           
 
